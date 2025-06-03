@@ -1,0 +1,45 @@
+.bw{
+height:800px;
+background-image: url("../picture/phone.jpg");
+background-color: rgb(50,50,50);
+background-position: top;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1 {
+color:white;
+font-size: 10rem;
+line-height: 85%;
+}
+
+h5 {
+    color:white;
+    font-size: 3rem;
+}
+
+h1, h5 {
+    color: white
+}
+
+h2 {
+
+  font-size: 4rem;
+line-height: 100%;  
+}
+
+.image {
+    height: s100px;
+    width: 100px;
+}
+
+.img-fluid {
+height: 100%;
+width: 100%;
+object-fit:cover;
+}
+
+.chair.JPG {
+height: 10%;
+width: 10%;
+}
